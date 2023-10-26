@@ -56,12 +56,14 @@ body {
   border: none;
   border-radius: 6px;
   margin-top: 10px;
+  margin-bottom: 10px;
   padding: 13px 0px;
 }
 
 .meme-image {
   height: 550px;
   width: 100%;
+  border-radius: 5px;
 }
 
 .textbox-container {
